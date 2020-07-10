@@ -1,1 +1,1 @@
-<h1>Yukari Guenka Yshida 💁‍♀️</h1># yguenka
+<h1>Yukari Guenka Yshida 💁‍♀️</h1>
