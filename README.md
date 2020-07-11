@@ -4,5 +4,3 @@
 Formada em Engenharia de Produção, atuei no ramo de logística/gestão de equipamentos em uma empresa de tecnologia.
 
 Fui atraída pelo mundo dos dados no meu último trabalho, onde precisava extrair dados das atividades realizadas por profissionais da empresa e não tinha muita ajuda. Sozinha, aprendi a fazer essa atividade para facilitar meu trabalho e conseguir entregar relatórios confiáveis. Então, decidi cursar Análise de Dados na Ironhack para aumentar meus conhecimentos e mergulhar de vez nessa área. Aprendi toda parte de extração, data cleaning e análise de dados, usando ferramentas e tecnologias como: Python, SQL, Tableau, Pandas e Machine Learning.
-
-Sou uma profissional que aprende rápido, organizada e pontual. Hoje busco uma oportunidade em uma empresa dinâmica e flexível, que possa me oferecer desafios diários para aplicar os conhecimentos que tenho adquirido.
